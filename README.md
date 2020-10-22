@@ -3,6 +3,17 @@ A software made with pygame that uses chaos games to generate fractals.
 
 # Plz use the one with the largest version number, otherwise this README probably means nothing.
 
+# v5 
+
+Press i to open the gui
+
+arrow keys to navigate, z to toggle
+
+when not in gui: left/right to switch points, z to disable relative jumps (from top) and x to disable absolute coordinates.
+
+
+# v0.4 and below
+
 Controls so far:
 
 1/rightarrow : move cursor clockwise
