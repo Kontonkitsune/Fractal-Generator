@@ -3,6 +3,23 @@ A software made with pygame that uses chaos games to generate fractals.
 
 # Plz use the one with the largest version number, otherwise this README probably means nothing.
 
+# v8
+
+Press i to open the gui
+
+arrow keys to navigate, z to toggle
+
+Press q to toggle zoom mode:
+
+a/s: zoom in, out
+
+d: recenter
+
+f: toggle whether the display will update every frame (laggy when zoomed in)
+
+when not in gui or zoom: left/right to switch points, z to disable relative jumps (from top) and x to disable absolute coordinates.
+
+
 # v5 
 
 Press i to open the gui
