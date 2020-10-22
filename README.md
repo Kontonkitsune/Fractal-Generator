@@ -1,6 +1,8 @@
 # Fractal-Generator
 A software made with pygame that uses chaos games to generate fractals.
 
+# Plz use the one with the largest version number, otherwise this README probably means nothing.
+
 Controls so far:
 
 1/rightarrow : move cursor clockwise
